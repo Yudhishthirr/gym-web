@@ -1,6 +1,6 @@
 # EVOGYM - Evolutionary Fitness
 
-![EVOGYM Website Screenshot](gym.png)
+![EVOGYM Website Screenshot](/gym.png)
 
 ## Overview
 
